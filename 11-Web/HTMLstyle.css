@@ -1,0 +1,617 @@
+.head {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+.title1 {
+    color: rgb(0, 91, 248);
+    font-size: 50px;
+    position: absolute;
+    left: 80px;
+    font-weight: bold;
+    
+
+    
+    
+
+
+}
+
+.mover {
+
+    
+    position: relative;
+    left: 95px;
+    
+      
+}
+
+.boxed {
+    border: 1px solid rgb(9, 173, 255);
+    background-color: rgb(191, 215, 216);
+  }
+
+.bg {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    
+    border: 1px solid rgb(97, 109, 115);
+
+    width: 980px;
+
+    height: 688px;
+
+  
+
+    box-shadow: 5px 10px #888888;
+
+    top: 0px;
+
+    opacity: 0.9;
+    
+    position: relative;
+
+    top: 7.5%;
+    
+    left: 0.75%
+
+    max-width: 100%
+
+    
+
+    
+
+    
+    
+
+  }
+
+.wordmove {
+    position: absolute;
+    left: 60px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    line-height: 0.5cm;
+    text-indent: 20px;
+    top: 98px;
+    
+
+
+}
+
+
+.img {
+  max-width: 900px;
+  height: 400px;
+  position: relative;
+  left: 10px;
+  opacity: 1.0;
+  top: 200px;
+
+
+  
+}
+
+
+.back{
+    background-color: teal;
+}
+
+.wordmove2 {
+  position: relative;
+  left: 60px;
+  text-indent: .5in;
+
+
+
+}
+
+.wordmove2 {
+  position: relative;
+  left: 60px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 14px;
+  line-height: 0.5cm;
+  text-indent: 20px;
+  
+  
+
+
+}
+
+
+
+.bg2 {
+  background-color: rgb(255, 255, 255);
+  display: block;
+  
+  border: 1px solid rgb(97, 109, 115);
+
+  width: 565px;
+
+  box-shadow: 5px 10px #888888;
+
+  top: 99px;
+
+  opacity: 0.9;
+
+
+  position: absolute;
+  
+  left: 1020px;
+
+  top: 57px;
+
+  height: 595px;
+
+  width: 480px;
+
+  
+
+  
+ 
+
+}
+
+
+.title2 {
+  color: rgb(0, 91, 248);
+  font-size: 50px;
+  position: fixed;
+  left: 1100px;
+  font-weight: bold;
+}
+
+.img2 {
+  width: 900px;
+  position: relative;
+  left: 335px;
+  opacity: 0.93;
+  top: 85px
+  }
+
+.img3 {
+    width: 900px;
+    position: relative;
+    left: 335px;
+    opacity: 0.93;
+    top: 185px
+    }
+
+.img4 {
+    width: 900px;
+    position: relative;
+    left: 335px;
+    opacity: 0.93;
+    top: 250px;
+    }
+
+
+.img5 {
+    width: 900px;
+    position: relative;
+    left: 335px;
+    opacity: 0.93;
+    top: 250px;
+        }
+
+
+
+
+
+
+
+
+.datachart {
+  position: relative;
+  left: 1000px;
+
+
+
+
+
+
+}
+
+.datafont{
+  background: white;
+  position: relative;
+  left:475px; 
+  opacity: .95;
+
+
+
+
+}
+
+
+.compfont{
+  color: whitesmoke;
+  font-size: 45px;
+  position: relative;
+  left: 398px;
+
+
+
+
+
+}
+
+.pic1{
+  width: 200px;
+  position: relative;
+  left: 50px;
+  opacity: 0.99;
+  top: 150px;
+  
+ 
+
+
+}
+
+
+.pic2{
+  width: 200px;
+  position: relative;
+  left: 65px;
+  opacity: 0.99;
+  top: 150px;
+
+
+
+}
+
+.pic3{
+  width: 200px;
+  position: relative;
+  left: 50px;
+  opacity: 0.99;
+  top: 200px;
+
+
+
+}
+
+
+.pic4{
+  width: 200px;
+  position: relative;
+  left: 65px;
+  opacity: 0.99;
+  top: 200px;
+
+
+
+}
+
+
+
+
+@media (max-width: 600px){
+
+
+  .head {
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+
+.title1 {
+    color: rgb(0, 91, 248);
+    font-size: 32px;
+    position: absolute;
+    left: 32px;
+    font-weight: bold;
+    
+
+    
+    
+
+
+}
+
+.mover {
+
+    
+    position: relative;
+    left: 95px;
+    
+      
+}
+
+.boxed {
+    border: 1px solid rgb(9, 173, 255);
+    background-color: rgb(191, 215, 216);
+  }
+
+.bg {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    
+    border: 1px solid rgb(97, 109, 115);
+
+    width: 465px;
+
+    height: 488px;
+
+  
+
+    box-shadow: 5px 10px #888888;
+
+    top: 0px;
+
+    opacity: 0.9;
+    
+    position: relative;
+
+    top: 11.5%;
+    
+    left: 0.95%
+
+    max-width: 100%
+
+
+    z-index: -1
+
+    
+
+    
+
+    
+    
+
+  }
+
+.wordmove {
+    position: absolute;
+    left: 40px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    line-height: 0.5cm;
+    text-indent: 20px;
+    top: 62px;
+    
+
+
+}
+
+
+.img {
+  max-width: 900px;
+  height: 220px;
+  position: relative;
+  left: 50px;
+  opacity: 1.0;
+  top: 250px;
+
+
+  
+}
+
+
+.back{
+    background-color: teal;
+}
+
+.wordmove2 {
+  position: relative;
+  left: 60px;
+  text-indent: .5in;
+
+
+
+}
+
+.wordmove2 {
+  position: relative;
+  left: 60px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 14px;
+  line-height: 0.5cm;
+  text-indent: 20px;
+  
+  
+
+
+}
+
+
+
+.bg2 {
+  background-color: rgb(255, 255, 255);
+  display: block;
+  
+  border: 1px solid rgb(97, 109, 115);
+
+  width: 565px;
+
+  box-shadow: 5px 10px #888888;
+
+  top: 20px;
+
+  opacity: 0.9;
+
+
+  position: absolute;
+  
+  left: 0.95%;
+
+  top: 550px;
+
+  height: 595px;
+
+  width: 480px;
+
+  
+
+  
+ 
+
+}
+
+
+.title2 {
+  color: rgb(0, 91, 248);
+  font-size: 45px;
+  position: relative;
+  left: 110px;
+  font-weight: bold;
+}
+
+.img2 {
+  width: 400px;
+  position: relative;
+  left: 33px;
+  opacity: 1.0;
+  top: 0px
+  }
+
+.img3 {
+    width: 400px;
+    position: relative;
+    left: 33px;
+    opacity: 1.0;
+    top: 0px
+    }
+
+.img4 {
+    width: 400px;
+    position: relative;
+    left: 33px;
+    opacity: 1.0;
+    top: 50px;
+    }
+
+
+.img5 {
+    width: 400px;
+    position: relative;
+    left: 33px;
+    opacity: 1.0;
+    top: 50px;
+        }
+
+
+
+
+
+
+
+
+.datachart {
+  position: relative;
+  left: 1000px;
+
+
+
+
+
+
+}
+
+.datafont{
+  background: white;
+  position: relative;
+  left:475px; 
+  opacity: .95;
+  width: 200px;
+
+
+
+
+}
+
+.pic1{ 
+  
+  width: 200px;
+  position: relative;
+  left: 40px;
+  opacity: 0.99;
+  top: 0px;
+ 
+
+
+}
+
+
+.pic2{
+
+  width: 200px;
+  position: relative;
+  left: 63px;
+  opacity: 0.99;
+  top: 0px;
+ 
+
+
+
+}
+
+.pic3{
+  width: 200px;
+  position: relative;
+  left: 40px;
+  opacity: 0.99;
+  top: 50px;
+  
+
+
+
+}
+
+
+.pic4{
+  width: 200px;
+  position: relative;
+  left: 63px;
+  opacity: 0.99;
+  top: 50px;
+  
+
+
+
+}
+
+
+
+.compfont{
+  color: whitesmoke;
+  font-size: 25px;
+  position: relative;
+  left: 28px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
